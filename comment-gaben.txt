@@ -1,1 +1,2 @@
 iniciando a app com o git e github.
+lembrar sempre de citar o diretorio no github, ou as configurações do ssh/config
